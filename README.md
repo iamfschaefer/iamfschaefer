@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I’m Flo 👋
+# I’m interested in building cool websites and clean UIs 👀
+
+![Banner](https://pbs.twimg.com/profile_banners/708873231516745728/1655306897/1500x500)
+
+🌱 I’m currently learning Svelte & SvelteKit
+📫 How to reach me: Twitter @iamfschaefer
 
 <!--
 **iamfschaefer/iamfschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
