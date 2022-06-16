@@ -1,13 +1,13 @@
 ## Hi, I’m Flo 👋
 # I’m interested in building cool websites and clean UIs 👀
 
-![Banner](https://pbs.twimg.com/profile_banners/708873231516745728/1655306897/1500x500)
+![Banner](https://i.imgur.com/WyXnFBW.gif)
 
 🌱 I’m currently learning Svelte & SvelteKit
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfschaefer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<img alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<img alt="Coding" width="400" src="https://media0.giphy.com/media/Q6joirtIBHUsw/giphy.gif?cid=790b76116994773a7087a46c745dbf5abde8c82da3cd7f4e&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
