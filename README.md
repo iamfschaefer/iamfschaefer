@@ -3,7 +3,7 @@
 <h3>I’m interested in building cool websites and clean UIs 👀 </h3>
 <p>🌱 I’m currently working with SvelteKit and Tailwind CSS</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfschaefer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfschaefer&theme=green_nur&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
