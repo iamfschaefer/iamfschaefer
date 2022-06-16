@@ -1,8 +1,5 @@
-## Hi, I’m Flo 👋
-# I’m interested in building cool websites and clean UIs 👀
-
 ![Banner](https://i.imgur.com/WyXnFBW.gif)
-
+# I’m interested in building cool websites and clean UIs 👀
 🌱 I’m currently learning Svelte & SvelteKit
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfschaefer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
