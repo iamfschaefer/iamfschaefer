@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/0962f4ffedcd098d25781bc811aecda9cd5dc98a/src/drivers/webextension/images/icons/Svelte.svg" alt="svelte" width="40" height="40"/></a>
+<a href="https://kit.svelte.dev/" target="_blank"><img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/0962f4ffedcd098d25781bc811aecda9cd5dc98a/src/drivers/webextension/images/icons/Svelte.svg" alt="sveltekit" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
