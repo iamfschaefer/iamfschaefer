@@ -5,7 +5,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamfschaefer&theme=green_nur&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+This is not purely a development account. I also use several repos to keep track of and keep backups of my fiction writing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
