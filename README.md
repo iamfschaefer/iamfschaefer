@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/8ZY4W7F)
+![Banner](https://i.imgur.com/xpZxJkX.jpeg)
 
 <h3>I’m interested in building cool websites and clean UIs 👀 </h3>
 <p>🌱 I’m currently working with SvelteKit and Tailwind CSS</p>
