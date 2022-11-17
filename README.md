@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/OFwUqo2.jpeg)
+![Banner](https://i.imgur.com/gPTlo7R.jpeg)
 
 <p>🌱 I’m currently working with SvelteKit and Tailwind CSS</p>
 
